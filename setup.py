@@ -8,7 +8,7 @@ data_files= ["scu_captcha/model.pt",
 
 setuptools.setup(
     name="scu_captcha",
-    version="0.0.3",
+    version="0.0.5",
     author="Sunnyhaze",
     author_email="mxch1122@126.com",
     keywords=["pip", "scu-captcha"],
@@ -28,7 +28,7 @@ setuptools.setup(
     ],
     packages=setuptools.find_packages(),
     python_requires=">=3.7",
-    install_requires=["request", "pillow"],
+    install_requires=["requests", "pillow"],
     data_files=data_files,
     include_package_data=True,
     py_modules=["scu_captcha"],
