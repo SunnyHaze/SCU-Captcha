@@ -4,6 +4,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/SunnyHaze/SCU-Captcha?logo=hack%20the%20box)
 ![GitHub top language](https://img.shields.io/github/languages/top/Sunnyhaze/scu-captcha?color=green&logo=python)
 ![GitHub](https://img.shields.io/github/license/Sunnyhaze/scu-captcha?logo=license)
+## 失效声明
+- 寄了，SCU教务处换了个闪闪的带汉字的强验证码，本仓库只能供娱乐学习使用了。敬请周知。
 ## 声明
 - 本项目只适用于编程学习用途，请在下载后24小时内删除！
 - 不得随意传播本项目至任何公开场合（包括但不限于QQ群、微信群、贴吧论坛等）
